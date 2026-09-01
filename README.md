@@ -1,21 +1,3 @@
-GitHub Repo Setup — Filo
-Repo name
-filo
-Short description (GitHub "About" field, 350 char max)
-Filo — a free, open-source, all-in-one file toolkit. Convert, compress, merge, and edit PDFs, images, and documents entirely in your browser. Nothing is uploaded — your files never leave your device.
-Topics/tags (for discoverability)
-pdf-tools  image-converter  file-converter  privacy-first  client-side
-webassembly  react  typescript  open-source  developer-tools  productivity
-Website field
-
-Your Vercel deployment URL once live (e.g. filo.app or filo.vercel.app).
-
-License
-
-Recommend MIT — permissive, standard for this kind of open-source utility, easiest for others to contribute to or fork.
-
-README.md
-markdown
 # Filo
 
 **A free, open-source, all-in-one file toolkit — PDF, image, document, and
